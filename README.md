@@ -8,6 +8,7 @@
 4. 그 후 master branch로 pull request를 보냅니다.
 
 > 추가로 자신이 클론을 받은 뒤 제일 먼저 과제를 수행하지 않고 다른 팀원들이 먼저 master브랜치에 병합했다면 변동사항을 가져와야합니다.  
+>   
 > 그때 git pull 이라는 명령어를 사용해 버전을 맞춰주십시요. (git pull origin master)
 
 ### 검색 키워드
